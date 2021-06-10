@@ -55,7 +55,7 @@ if (error) {
     
     
    fill(255, 204, 0)
-  rect(19, 25, 270, 50, 80);
+  rect(490, 490, 270, 50, 80);
     
     
   // STEP 4: Draw the label
