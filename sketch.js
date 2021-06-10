@@ -50,12 +50,12 @@ if (error) {
   
   
   // Draw the video
-  image(video, 0, 0, 680, 520);
+  image(video, 490, 490, 680, 520);
 
     
     
    fill(255, 204, 0)
-  rect(490, 490, 270, 50, 80);
+  rect(19, 23, 270, 50, 80);
     
     
   // STEP 4: Draw the label
