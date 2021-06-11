@@ -50,7 +50,7 @@ if (error) {
   
   
   // Draw the video
-  image(video, 490, 490, 680, 520);
+  image(video, 0, 0, 680, 520);
 
     
     
